@@ -8,4 +8,4 @@
 5. [Week5](week5) : Natural Language Processing / Bag of Words / Word2Vec
 6. [Week6](week6) : RNN / GRU / LSTM
 7. [Week7](week7) : AE / VAE / SVHN
-8. [Week8](week8) : Comming Soon
+8. [Week8](week8) : GAN / DCGAN / Pix2Pix / Pytorch 4.0
