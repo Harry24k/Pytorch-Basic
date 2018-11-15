@@ -7,3 +7,4 @@
 4. [Week4](Week4) : Improving NN&CNN / Transfer Learning
 5. [Week5](Week5) : NLP
 6. [Week6](Week6) : RNN / LSTM / GRU
+7. [Week7](Week7) : AutoEncoder
