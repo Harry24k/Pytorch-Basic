@@ -6,4 +6,5 @@
 3. [Week3](Week3) : Neural Network / Convolutional Neural Network
 4. [Week4](Week4) : Methods for Improving Model / Improving CNN / Advanced CNN & Transfer Learning
 5. [Week5](Week5) : Natural Language Processing / Bag of Words / Word2Vec
-6. [Week6](Week6) : Comming Soon
+6. [Week6](week6) : RNN / GRU / LSTM
+7. [Week7](week7) : Comming Soon
