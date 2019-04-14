@@ -1,4 +1,5 @@
-data/MNIST
+*/data/MNIST/
 _*/
 .*/
-
+Week3/data/jamo/
+Week3/model/model.pkl
