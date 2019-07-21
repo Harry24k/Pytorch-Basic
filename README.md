@@ -40,7 +40,7 @@ This repository aims to provide useful codes for people want to learn "Pytorch".
 	- Derive Normal Equation
 	- Define Model
 
-![Linear Regression](./pic/001.png){: height="200"}
+![Linear Regression](./pic/001.png)
 - Multivariate Linear Regression
 	- Solubility Data
 	- Define Model
