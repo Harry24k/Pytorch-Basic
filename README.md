@@ -29,6 +29,25 @@ This repository aims to provide useful codes for people want to learn "Pytorch".
 
 
 #### 2. [Week2](Week2) : Variable & Autograd / Regression / Classification
+- Variable & Autograd
+	- Autograd
+	- Backward
+	- detach vs data
+- Linear Regression
+	- Generate Data
+	- Derive Normal Equation
+	- Define Model
+![Linear Regression](./pic/001.png)
+- Multivariate Linear Regression
+	- Solubility Data
+	- Define Model
+	- Train & Test Model
+![Multivariate Linear Regression](./pic/002.png)
+- Logistic Regression
+	- Iris Data
+	- Define Model
+	- Train & Test Model
+![Logistic Regression](./pic/003.png)
 
 #### 3. [Week3](Week3) : Activation Function / Neural Network / Convolution Neural Network
 
