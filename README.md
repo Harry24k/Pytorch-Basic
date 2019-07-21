@@ -40,8 +40,7 @@ This repository aims to provide useful codes for people want to learn "Pytorch".
 	- Derive Normal Equation
 	- Define Model
 
-![Linear Regression](./pic/001.png)
-
+![Linear Regression](./pic/001.png){: height="200"}
 - Multivariate Linear Regression
 	- Solubility Data
 	- Define Model
@@ -53,7 +52,7 @@ This repository aims to provide useful codes for people want to learn "Pytorch".
 	- Iris Data
 	- Define Model
 	- Train & Test Model
-	
+
 ![Logistic Regression](./pic/003.png)
 
 #### 3. [Week3](Week3) : Activation Function / Neural Network / Convolution Neural Network
